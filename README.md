@@ -2,7 +2,7 @@
 
 ##Practica profesionalisante
 Salud mental en estudiantes. 
-
+!Salud mental en estudiantes(https://github.com/tu-llavi1492/llavi1492/blob/master/imagen.jpg)
 
 ## Integrantes
 
