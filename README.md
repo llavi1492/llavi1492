@@ -1,6 +1,6 @@
 # ISPC/Ciencias en Datos e IA
 
-##Practica profesionalisante
+Practica profesionalisante
 Salud mental en estudiantes. 
 
 ![salud mental](https://github.com/llavi1492/llavi1492/assets/150388260/c8e6fbf0-a52f-4901-85a4-a5bdf91c638a)
