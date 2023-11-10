@@ -1,18 +1,16 @@
 # ISPC/Ciencias en Datos e IA
 
-Este archivo README describe la práctica profesionalizante del grupo 9 de Ciencias en Datos e IA del ISPC.
+##Practica profesionalisante
+Salud mental en estudiantes. 
 
-## Descripción
-
-La práctica profesionalizante del grupo 9 de Ciencias en Datos e IA tiene como objetivo desarrollar una aplicación web para el análisis de datos de transporte público. La aplicación permitirá a los usuarios visualizar datos de tráfico, horarios de buses y trenes, y otras información relevante.
 
 ## Integrantes
 
-* Mercedes Vilaseca
-* Cristian Villalba
+* Vilaseca Mercedes
+* Villalba Cristian
 
 ## Recursos
 
-* [Documentación de la aplicación](link a la documentación)
-* [Código fuente de la aplicación](link al código fuente)
-* [Presentación de la aplicación](link a la presentación)
+* Trello: https://trello.com/b/TbsQUE3J/proyecto-ispc-salud-mental-de-los-estudiantes
+* Colab: https://colab.research.google.com/drive/1YKyZqb3hdmTCk5_Wq-QDLBLip0bx5iIY?usp=sharing
+* Video: 
