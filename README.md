@@ -14,4 +14,4 @@ Tema: Salud mental en estudiantes.
 
 * Trello: https://trello.com/b/TbsQUE3J/proyecto-ispc-salud-mental-de-los-estudiantes
 * Colab: https://colab.research.google.com/drive/1YKyZqb3hdmTCk5_Wq-QDLBLip0bx5iIY?usp=sharing
-* Videos(Del 1 a 3): https://drive.google.com/drive/folders/1rkHwCA1m3hm3b29vTqo-8DZU_km4vXci 
+* Videos(Del 1 a 3): https://drive.google.com/drive/folders/1rkHwCA1m3hm3b29vTqo-8DZU_km4vXci
