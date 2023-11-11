@@ -7,8 +7,8 @@ Tema: Salud mental en estudiantes.
 
 ## Integrantes
 
-* Vilaseca Mercedes
-* Villalba Cristian
+* Vilaseca Mercedes -Sala2     //m.vilasecafarran@gmail.com
+* Villalba Cristian -Sala1     //cvillalbapolitegnico@gmail.com
 
 ## Recursos
 
